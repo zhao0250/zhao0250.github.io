@@ -2,6 +2,9 @@ body {
     background-color: #aad4cf;
 }
 
+.main-con {
+    align-items: center;
+}
 .nav-con {
     display: flex;
     flex-direction: row;
