@@ -3,7 +3,7 @@ body {
 }
 
 .nav-con {
-    margin: 0 50px;
+    margin-left: auto;
 }
 nav {
     display: block;
