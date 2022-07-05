@@ -18,7 +18,7 @@ body {
 
 .container {
     align-items: flex-start;
-    width: 400px;
+    width: 800px;
     height: 200px;
     margin: 0 auto;
 }
