@@ -10,7 +10,6 @@ body {
 .nav-con {
     display: flex;
     flex-direction: row;
-    height: 200px;
     align-items: center;
 }
 
