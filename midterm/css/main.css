@@ -1,9 +1,9 @@
 .text {
-width: 400px;
-margin: 0 auto;
+    width: 400px;
+    margin: 0 auto;
 }
 
 .floated {
     float: left;
-    width: 100px;
+    width: 10px;
 }
