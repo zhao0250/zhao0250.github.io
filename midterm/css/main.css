@@ -3,8 +3,9 @@ body {
 }
 
 .nav-con {
-    margin-left: auto;
+    display: flex;
 }
+
 nav {
     display: block;
 }
