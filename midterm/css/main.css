@@ -6,19 +6,16 @@ body {
     display: flex;
 }
 
-nav {
-    display: block;
-}
+
 
 .container {
     width: 400px;
     margin: 0 auto;
 }
 
-.big {
-    height: ;
-}
+
 .small {
     float: left;
     width: 100px;
+    margin: auto;
 }
