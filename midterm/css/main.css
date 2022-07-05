@@ -14,11 +14,10 @@ body {
 
 .ul-nav {
     list-style-type: none;
+    border: 20px;
 }
 
-.li-nav {
-    padding: 14px 16px;
-}
+
 
 .sec-con {
     align-items: flex-start;
