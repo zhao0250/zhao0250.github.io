@@ -23,6 +23,7 @@ fir-con {
     flex-flow: row nowrap;
     width: 300px;
     z-index: 1;
+    justify-content: flex-start;
 }
 
 .sec-con {
