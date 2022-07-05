@@ -10,11 +10,15 @@ body {
 
 .text-img {
     text-align: center;
+    position: relative;
 }
 .max {
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
     color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
 }
 .nav-con {
     display: flex;
