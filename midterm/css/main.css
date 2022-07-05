@@ -9,7 +9,7 @@ body {
 }
 .nav-con {
     display: flex;
-    
+    align-items: center;
 }
 
 .ul-nav {
