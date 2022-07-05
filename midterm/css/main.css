@@ -7,6 +7,10 @@ body {
     width: fit-content;
     position: relative;
 }
+
+.text-img {
+    text-align: center;
+}
 .max {
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
