@@ -4,7 +4,8 @@ body {
 
 .main-con {
     background-color: #D4E9E7;
-    align-items: center;
+    width: fit-content;
+    position: relative;
 }
 .nav-con {
     display: flex;
