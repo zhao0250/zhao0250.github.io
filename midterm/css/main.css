@@ -12,7 +12,10 @@ body {
     align-items: center;
 }
 
-
+.ul-nav {
+    list-style-type: none;
+    
+}
 
 
 
