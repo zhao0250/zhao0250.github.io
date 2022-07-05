@@ -10,7 +10,7 @@ nav {
     margin: 0 auto;
 }
 
-img {
+.small {
     float: left;
     width: 100px;
 }
