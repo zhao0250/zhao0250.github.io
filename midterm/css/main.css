@@ -1,6 +1,10 @@
 body {
     background-color: #aad4cf;
 }
+
+.nav-con {
+    margin: auto;
+}
 nav {
     display: block;
 }
@@ -10,6 +14,9 @@ nav {
     margin: 0 auto;
 }
 
+.big {
+    height: ;
+}
 .small {
     float: left;
     width: 100px;
