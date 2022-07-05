@@ -17,5 +17,5 @@ body {
 .small {
     float: left;
     width: 100px;
-    margin: auto;
+    margin: 0 10px 10px 0;
 }
