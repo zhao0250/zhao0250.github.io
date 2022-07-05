@@ -14,7 +14,7 @@ body {
 
 .ul-nav {
     list-style-type: none;
-    border: 20px;
+    display: inline;
 }
 
 
